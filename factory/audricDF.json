@@ -1,0 +1,9 @@
+{
+	"name": "audricDF",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9d31f898-c827-4c0c-9260-068d4ef79465",
+		"tenantId": "57f176fd-909f-45ac-83db-56573e244f1f"
+	}
+}
